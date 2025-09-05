@@ -5,6 +5,10 @@
 
 Damn I was bored and wanted to make something, so I made this sorting algo visualizer like I saw on youTube lol. 
 
+![Screen shot](https://raw.githubusercontent.com/Sidd0OP/SortVizualizer/refs/heads/master/ss.png)
+
+
+
 Its not maven or Gradle simple eclipse project, to write your own sorting algo and see it working do this 👉
 
 
